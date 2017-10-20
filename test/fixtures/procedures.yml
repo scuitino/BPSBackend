@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  externalID: MyString
+  name: MyString
+  desk: one
+
+two:
+  externalID: MyString
+  name: MyString
+  desk: two
